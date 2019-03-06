@@ -10,6 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //1211456
+            chinh sua; 
         }
     }
 }
