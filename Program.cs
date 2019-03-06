@@ -8,8 +8,14 @@ namespace ConsoleApplication1
     class Program
     {
         static void Main(string[] args)
+<<<<<<< HEAD
         { // chinh sua 
             chinh sua;
+=======
+        {
+            //1211456
+            chinh sua; 
+>>>>>>> nhanh-1
         }
     }
 }
